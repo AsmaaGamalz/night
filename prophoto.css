@@ -1,0 +1,153 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+.sectionnavbar{
+   background-image: url(imgphoto.jpg);
+    background-size: 100% 100%;
+    height:auto;
+    
+    
+}
+.intro-text{
+    padding-top: 150px;
+}
+.intro-text h2{
+    
+    font-family: fantasy;
+    font-size:80px;
+    padding-top: 8px;
+}
+.intro-text p{
+    
+     font-size:27px;
+    font-family: monospace;
+      padding-top: 8px;
+}
+.layer{
+    background-color: rgba(0,0,0,0.3);
+    height: 700px;
+}
+.navbar-brand{
+    font-size: 20px;
+    font-family: sans-serif;
+    letter-spacing: 0.7px;
+    font-weight: 900px;
+}
+.navbar-nav .nav-item .nav-link{
+    color:white;
+     
+    font-family: sans-serif;
+    letter-spacing: 0.7px;
+    font-weight: 200px;
+}
+
+
+
+.sectionphotocard{
+    height: auto;
+padding-top: 60px;
+   padding-bottom:60px;
+}
+
+
+.clearfix{
+    clear:both;
+}
+
+.sectiondivimgph{
+     height: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #f9f9f9;
+    background-size: 100% 100%;
+}
+.sectiondivimgph .parghead1 .head{
+    font-style: italic;
+   font-family: serif;
+    font-size: 30px;
+}
+.sectiondivimgph .parghead1 .parg{
+    color:gray;
+    font-family: monospace;
+    font-style: italic;
+    font-size: 20px;
+    
+}
+.clearfix{
+    clear:both;
+}
+
+.imgattachment{
+    height: auto;
+    background-image: url(imgphoto5.jpg);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    padding: 50px 0;
+}
+
+.headerparagraph{
+    padding-top: 150px;
+}
+.headerparagraph .header{
+    font-style: italic;
+    font-weight: 600;
+    font-family: cursive;
+    font-size: 60px;
+    color:white;
+    
+}
+.headerparagraph .paraghrah{
+    color:white;
+    font-size: 30px;
+    font-style: italic;
+    font-family: cursive;
+    padding-top: 10px;
+}
+.sectionheadimg{
+    padding: 50px;
+}
+.cardinner{
+    position:relative;
+    
+}
+.imgoverlay{
+    position:absolute;
+    top:15%;
+    left:35px;
+    background-color:coral;
+    border:3px;
+}
+.imgoverlay a{
+    color: black;
+}
+*/
+.shapbutton{
+    /*display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;*/
+    width: 70px;
+    height: 80px;
+     position:absolute;
+     top:45%;
+    right:45px;
+    background-color: coral;
+   color:white;
+}
+
+.line{
+    width:25px;
+    height: 15px;
+     position:relative;
+    color:white;
+}
+.list ul li strong{
+    font-size:25px;
+}
+.list ul li {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+    
+   */ 
